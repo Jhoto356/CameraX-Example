@@ -1,0 +1,3 @@
+# CameraX-Example
+
+No se agrego boton para tomoar foto solo se queria ver los que la camara ver....
